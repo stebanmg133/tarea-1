@@ -1,0 +1,20 @@
+{
+  "total": 14,
+  "comprobaciones": [
+    "JAR inicia correctamente, ejecucion 1",
+    "Admin del JAR permite iniciar sesion",
+    "Panel del JAR disponible",
+    "JAR guarda cambio de clave",
+    "CSS contenido en JAR, ejecucion 1",
+    "JavaScript contenido en JAR, ejecucion 1",
+    "JAR inicia correctamente, ejecucion 2",
+    "JAR conserva credenciales al reiniciar",
+    "CSS contenido en JAR, ejecucion 2",
+    "JavaScript contenido en JAR, ejecucion 2",
+    "JAR crea archivo administrador",
+    "JAR crea archivo profesores",
+    "JAR crea archivo estudiantes",
+    "JAR crea archivo notas"
+  ],
+  "entorno": "OpenJDK 21.0.11, compilacion --release 17, directorio de trabajo con espacios"
+}

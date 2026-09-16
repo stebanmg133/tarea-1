@@ -1,0 +1,18 @@
+{
+  "comprobaciones": [
+    "Captura de HTML real de cinco pantallas del servidor",
+    "Renderizado sin desbordamiento: 01_inicio.png",
+    "Renderizado sin desbordamiento: 02_registro.png",
+    "Renderizado sin desbordamiento: 03_ficha_profesor.png",
+    "Renderizado sin desbordamiento: 04_administrador.png",
+    "Renderizado sin desbordamiento: 05_estudiante.png",
+    "JavaScript agrega y renumera campos de notas",
+    "JavaScript elimina y renumera campos de notas",
+    "Al quitar la ultima nota queda un campo vacio",
+    "Ficha movil sin desbordamiento horizontal de la pagina",
+    "Editor movil sin desbordamiento horizontal de la pagina",
+    "Sin errores de JavaScript al renderizar e interactuar"
+  ],
+  "total": 12,
+  "metodo": "HTML real obtenido por HTTP, renderizado sin navegacion de red; botones dinamicos probados en Chromium."
+}

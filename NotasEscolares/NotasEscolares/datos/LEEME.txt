@@ -1,0 +1,17 @@
+DATOS DEL PROYECTO
+
+Esta entrega no incluye profesores ni estudiantes preinscritos.
+Las personas de las capturas son ejemplos ficticios, no cuentas incluidas.
+
+Los archivos profesores.properties, estudiantes.properties y notas.properties
+empiezan vacios. El programa los actualiza al registrarse y guardar notas.
+administrador.properties se crea automaticamente al primer arranque.
+
+Usuario inicial del administrador: admin
+Clave inicial: Admin123!
+Cambia la clave desde la pagina despues de entrar.
+
+No borres estos archivos ni los edites mientras el programa este abierto.
+Para respaldarlos, detiene el programa y copia toda esta carpeta.
+Las contrasenas se guardan como hash. Los nombres, documentos y notas no
+estan cifrados: para la demostracion escolar utiliza datos ficticios.

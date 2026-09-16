@@ -1,0 +1,103 @@
+OK - Estudiante hereda de Persona
+OK - Datos heredados
+OK - Polimorfismo en getRol
+OK - Normalizacion del aula
+OK - Busqueda sin tildes ni mayusculas
+OK - Casillas vacias no cuentan
+OK - Promedio simple con decimales
+OK - Aprueba con promedio superior a 3
+OK - Aprueba con promedio exacto 3
+OK - Pierde con promedio inferior a 3
+OK - Sin notas no aparece como perdido
+OK - Sin notas no hay division por cero
+OK - Cero si cuenta como nota
+OK - Redondeo visual a dos decimales
+OK - 2.995 no aprueba por redondeo
+OK - Comparacion decimal exacta
+OK - Rechaza nota invalida: 5.1
+OK - Rechaza nota invalida: -1
+OK - Rechaza nota invalida: NaN
+OK - Rechaza nota invalida: Infinity
+OK - Rechaza nota invalida: abc
+OK - Rechaza nota invalida: 3e0
+OK - Rechaza nota invalida: 3,4.5
+OK - Rechaza lista sin ninguna nota
+OK - Rechaza tipo de documento desconocido
+OK - Rechaza nombre vacio
+OK - Documento solo numerico
+OK - Contrasena demasiado corta
+OK - El hash no contiene la contrasena en texto
+OK - Autenticacion con contrasena correcta
+OK - Rechaza contrasena incorrecta
+OK - Cada hash utiliza una sal aleatoria
+OK - Hash invalido no autentica
+OK - Encapsulamiento de la lista de notas
+OK - Cuenta admin creada al iniciar
+OK - Clave inicial del administrador
+OK - Registro de ambas clases de persona
+OK - Identificacion unica incluso entre roles
+OK - Editar materia no crea duplicados por tildes
+OK - Edicion reemplaza notas anteriores
+OK - Evita dos procesos escribiendo los mismos archivos
+OK - Archivo persistente: administrador.properties
+OK - Archivo persistente: profesores.properties
+OK - Archivo persistente: estudiantes.properties
+OK - Archivo persistente: notas.properties
+OK - Profesor conservado despues de reiniciar
+OK - Estudiante conservado despues de reiniciar
+OK - Notas conservadas despues de reiniciar
+OK - Cambio de contrasena conservado
+OK - Archivo incompleto produce un error, no un reinicio silencioso
+OK - No destruye el archivo defectuoso
+OK - Pagina de inicio de sesion
+OK - Cookie de sesion protegida
+OK - Politica de seguridad de la pagina
+OK - Sin login no entra al administrador
+OK - POST sin token CSRF rechazado
+OK - Login incorrecto muestra error
+OK - Registro web de profesor
+OK - Registro web de estudiante con TI
+OK - Registro web de estudiante con CC
+OK - Web rechaza cuenta duplicada
+OK - No permite crear administradores desde registro
+OK - Inicio de sesion de profesor
+OK - Busca nombre ignorando tildes
+OK - Busqueda no revela otras aulas
+OK - Busca por identificacion
+OK - Profesor no accede a admin
+OK - Profesor no lee fichas de otra aula
+OK - Profesor no modifica notas de otra aula
+OK - Ficha inicial sin calificar
+OK - Guardar varias notas con decimales y blancos
+OK - El promedio se muestra en la ficha
+OK - Materia existente exige cargarla con Editar
+OK - Modificar materia existente
+OK - Edicion web persistida
+OK - Valida notas en el servidor
+OK - Formulario invalido conserva lo escrito para corregirlo
+OK - Error no altera las notas guardadas
+OK - Permite una segunda materia
+OK - General usa todas las notas, no promedio de promedios
+OK - Materia con caracteres especiales se procesa como texto
+OK - Escapa HTML para impedir inyeccion de scripts
+OK - Inicio de sesion de estudiante
+OK - Estudiante consulta su propia ficha
+OK - Estudiante no ve el editor
+OK - Estudiante no lee ficha ajena
+OK - Estudiante no modifica sus propias notas
+OK - Inicio de sesion del administrador
+OK - Admin agrupa por aula
+OK - Admin ve profesores y estudiantes
+OK - Filtro de aula del administrador
+OK - Admin consulta cualquier aula
+OK - Admin es de consulta, no califica
+OK - Cambio de contrasena por la web
+OK - Cambio de contrasena cierra otras sesiones
+OK - Cerrar sesion retira el acceso
+OK - La clave anterior deja de funcionar
+OK - La nueva clave permite entrar
+OK - Pagina desconocida devuelve 404
+OK - Cuenta web conservada al reiniciar el servidor
+OK - Calificaciones web conservadas al reiniciar
+
+RESULTADO: 101 comprobaciones correctas. Ningun dato real fue modificado.

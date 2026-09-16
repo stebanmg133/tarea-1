@@ -1,0 +1,37 @@
+NOTAS ESCOLARES - ENTREGA PARA INTELLIJ IDEA
+
+1. Extrae el ZIP completo. No ejecutes archivos desde dentro del ZIP.
+2. En IntelliJ: File > Open > selecciona la carpeta NotasEscolares.
+3. En File > Project Structure > Project, selecciona un JDK 17 o superior.
+   El nombre del SDK no tiene que ser "17": puede ser el JDK que instalaste.
+4. Abre src/colegio/Main.java y ejecuta Main.main() con el boton verde.
+5. Abre en tu navegador: http://localhost:8080
+
+CUENTA PRINCIPAL
+Usuario: admin
+Clave inicial: Admin123!
+Cambiala desde "Cambiar contrasena".
+
+PROFESORES Y ESTUDIANTES
+Se registran desde la pagina. Su usuario es su numero de identificacion.
+Usa la misma aula para el profesor y sus estudiantes, por ejemplo 10A.
+No hay cuentas de ejemplo preinstaladas.
+
+CONTENIDO
+README.md: instrucciones y recorrido de demostracion.
+EXPLICACION_POO.md: explicacion para sustentar el proyecto.
+PRUEBAS.md: que se comprobo y como ejecutar las pruebas.
+src/: codigo fuente completo.
+pruebas/: pruebas en Java.
+datos/: almacenamiento de registros y notas.
+bin/notas-escolares.jar: programa ya compilado.
+capturas/: ejemplos visuales con datos ficticios.
+
+ALTERNATIVA EN WINDOWS
+Con un JDK 17+ en el PATH, abre ejecutar.bat.
+Para probar el proyecto, abre probar.bat.
+
+IMPORTANTE
+La pagina funciona en el mismo computador que ejecuta Java.
+No esta publicada en Internet y esta entrega no es un sistema de produccion.
+No necesitas Spring, Maven, MySQL, XAMPP ni Tomcat.
